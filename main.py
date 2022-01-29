@@ -1,5 +1,6 @@
 # This is a quick guide on regular expressions in python, I hope it helps.
 # Author: @drmohammdatieh :https://github.com/drmohammadatieh
+# Reference: https://www.programiz.com/python-programming/regex
 
 import re
 
