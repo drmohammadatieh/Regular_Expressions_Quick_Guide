@@ -2,7 +2,7 @@
 
 ---
 
-<p align="left">This an exercise for regular expressions. 
+<p align="left">This an quick guide to regular expressions in Python. 
 </p>
 
 ## 📝 Table of Contents
