@@ -24,7 +24,7 @@ This project is meant to help beginners master the basics of regular expressions
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@drmohammdatieh](https://github.com/drmohammadatieh/drmohammadatieh.github.io) - Idea & Initial work.
+- [@drmohammdatieh](https://github.com/drmohammadatieh) - Idea & Initial work.
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
