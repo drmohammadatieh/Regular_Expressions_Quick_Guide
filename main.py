@@ -79,7 +79,11 @@ non_alpha_numeric_string = ' %^%'\n\
 # Search if there is a match (This method search for the first match only)
 is_there_a_digit = re.match(digit,numeric_string)
 print(
-    f"The result of digit search using 're.match(digit,numeric_string)' is a match object :\
+    f"The result of digit search using 're.match(digit,numeric_string)' is a 
+    
+    
+    
+    :\
 {is_there_a_digit}\n" if is_there_a_digit 
 else "There was no any digit found\n")
 
@@ -115,7 +119,7 @@ print(
     f"The result of search for a match using 're.search('(\d *)(\d *)(\d *)','1 2 3')' is a match object that looks like: {search_for_a_match}\n"\
          if search_for_a_match else "No match was found\n")
 
-print('You can use different match objects methods like the following:\n')
+print('You can use different match object methods like the following:\n')
 print("search_for_a_match.groups() will give a tuple of the match",search_for_a_match.groups(),"\n")
 print("search_for_a_match.group() will give a string of the match",search_for_a_match.group(),"\n")
 print("search_for_a_match.group(1) will give the first part of the match",search_for_a_match.group(1),"\n")
